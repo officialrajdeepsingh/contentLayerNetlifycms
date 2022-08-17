@@ -3,7 +3,7 @@ In nextjs we provide sitemap, SEO, pagination and Search support and deploy with
 
 
 ## step
-1. Download code `git clone https://github.com/officialrajdeepsingh/contentLayerNetlifycmsVercel.git`
+1. Download code `git clone https://github.com/officialrajdeepsingh/contentLayerNetlifycms.git`
 2. Run the `npm install`
 3. To start local develpoment server run ` npm run dev`
 
