@@ -4,9 +4,7 @@ categories:
   - react
   - test
 date: 2022-08-16T14:56:38.839Z
-description: 
-  - react
-  - test
+description: My description for image check article.
 image: /images/butterfly-7353884_960_720.webp
 tags:
   - javascript
