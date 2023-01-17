@@ -1,22 +1,5 @@
-import { defineDocumentType, makeSource, defineNestedType} from "contentlayer/source-files";
+import { defineDocumentType, makeSource} from "contentlayer/source-files";
 
-
-
-const Tag = defineNestedType(() => ({
-  name: 'Tag',
-  fields: {
-    title: { type: 'string'},
-  },
-}))
-
-
-
-const Categories = defineNestedType(() => ({
-  name: 'Categories',
-  fields: {
-    title: { type: 'string' },
-  },
-}))
 
 const Post = defineDocumentType(() => ({
     name: 'Post',
@@ -24,7 +7,8 @@ const Post = defineDocumentType(() => ({
     contentType: 'markdown',
     fields: {
       title: {
-        type: 'string',required: true,
+        type: 'string',
+        required: true,
       },
       date: {
         type: 'date',
@@ -33,13 +17,11 @@ const Post = defineDocumentType(() => ({
       author:{
         type: 'string',
         required: true,
-
       },
      
       description:{
         type: 'string',
         required: true,
-
       },
       slug:{
         type: 'string',
@@ -50,17 +32,18 @@ const Post = defineDocumentType(() => ({
       },
       image:{
         type: 'string',
-    
       },
       draft:{
-        type: 'string',
+        type: 'boolean',
         required: true,
       },
       tags: {
-        type: 'list',of: Tag,
+        type: 'list',
+        of: { type: 'string' }
       },
       categories:{
-        type: 'list',of: Categories,
+        type: 'list',
+        of: { type: 'string' },
       }
 
     },
@@ -71,7 +54,7 @@ const Post = defineDocumentType(() => ({
       },
     }
   
-  }))
+}))
   
 export default makeSource({
     contentDirPath: 'posts',
