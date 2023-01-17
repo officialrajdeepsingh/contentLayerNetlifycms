@@ -1,11 +1,15 @@
 ---
-author : "Rajdeep Singh"
-categories : ["Npm"]
+author : Rajdeep Singh
+categories : 
+  - Npm
 date : "2022-04-18T11:00:00Z"
-description : "Npm outdate command help to find old packages in your current project."
+description : Npm outdate command help to find old packages in your current project.
 image : "/images/npm-commands.png"
-tags : ["Npm command", "NPM CLI", "Npm "]
-title : "Learn the NPM outdated package command?"
+tags : 
+  - Npm command
+  - NPM CLI
+  - Npm
+title : Learn the NPM outdated package command?
 draft : false
 id: 13
 ---

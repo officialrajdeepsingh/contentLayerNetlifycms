@@ -1,13 +1,23 @@
 ---
-author : "Rajdeep Singh"
-categories : ["Rust", "Linux", "Raspberry pi 4", "Install Rust in Linux", "Ubuntu"]
-date : "2022-03-17T07:05:24Z"
-description : ""
+author : Rajdeep Singh
+categories : 
+  - Rust
+  - Linux
+  - Raspberry pi 4
+  - Install Rust in Linux
+  - Ubuntu
+date : 2022-03-17T07:05:24Z
+description : Install rust language in raspberry pi 4 and ubuntu
 draft : false
 image : "/images/install-Rust-langauge.png"
 slug : "how-to-install-rust-language-in-raspberry-pi-4-and-ubuntu"
-tags : ["Rust", "Linux", "Raspberry pi 4", "Install Rust in Linux", "Ubuntu"]
-title : "How to install rust language in raspberry pi 4 and ubuntu?"
+tags : 
+  - Rust
+  - Linux
+  - Raspberry pi 4
+  - Install Rust in Linux
+  - Ubuntu
+title : How to install rust language in raspberry pi 4 and ubuntu?
 id: 9
 ---
 

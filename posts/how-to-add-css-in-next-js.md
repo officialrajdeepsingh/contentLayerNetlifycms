@@ -1,11 +1,23 @@
 ---
-author : "Rajdeep Singh"
-categories : ["Next.js", "Next", "Next.js Framework", "Next.js Tutorial", "React.js", "react.js tutorial"]
-date : "2020-11-10T11:42:46Z"
+author : Rajdeep Singh
+categories :
+  - Next.js
+  - Next
+  - Next.js Framework
+  - Next.js Tutorial
+  - React.js
+  - react.js tutorial
+date : 2020-11-10T11:42:46Z
 description : "Easy Ways Add CSS in Next.js #SeriesPart2"
 image : "/images/next.js-add-css-code.jpg"
-tags : ["Next.js", "Next", "Next.js Framework", "Next.js Tutorial", "React.js", "react.js tutorial"]
-title : "How To Add CSS In Next js?"
+tags : 
+  - Next.js
+  - Next
+  - Next.js Framework
+  - Next.js Tutorial
+  - React.js
+  - react.js tutorial
+title : How To Add CSS In Next js?
 draft : false
 ---
 

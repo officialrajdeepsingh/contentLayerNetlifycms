@@ -1,13 +1,23 @@
 ---
-author : "Rajdeep Singh"
-categories : ["go language", "Linux", "Raspberry pi 4", "Ubuntu", "install go language"]
+author : Rajdeep Singh
+categories : 
+  - go language
+  - Linux
+  - Raspberry pi 4
+  - Ubuntu
+  - install go language
 date : "2022-03-15T10:59:50Z"
 description : ""
 draft : false
 image : "/images/install-go-langauge.png"
-slug : "how-to-install-go-language-in-raspberry-pi-4-and-ubuntu"
-tags : ["go language", "Linux", "Raspberry pi 4", "Ubuntu", "install go language"]
-title : "How to Install Go language in Raspberry pi 4 and Ubuntu?"
+slug : how-to-install-go-language-in-raspberry-pi-4-and-ubuntu
+tags : 
+  - go language
+  - Linux
+  - Raspberry pi 4
+  - Ubuntu
+  - install go language
+title : How to Install Go language in Raspberry pi 4 and Ubuntu?
 id: 6
 ---
 

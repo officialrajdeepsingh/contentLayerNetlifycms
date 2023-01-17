@@ -5,8 +5,14 @@ description : ""
 draft : false
 slug : "article-post-17"
 title : "Article post 17"
-tags : ["neovim", "Linux", "linux editor"]
-categories :  ["neovim", "Linux", "linux editor"]
+tags : 
+  - neovim
+  - Linux
+  - linux editor
+categories :  
+  - neovim 
+  - Linux
+  - linux editor
 image : "/images/contentlayer.png"
 
 ---

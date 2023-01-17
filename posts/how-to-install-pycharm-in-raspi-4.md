@@ -1,13 +1,25 @@
 ---
-author : "Rajdeep Singh"
-categories : ["Raspberry", "Raspberry pi 4", "ras pi", "pycharm", "pycharm in raspi", "install pycharm"]
+author : Rajdeep Singh
+categories : 
+  - Raspberry
+  - Raspberry pi 4
+  - ras pi
+  - pycharm
+  - pycharm in raspi
+  - install pycharm
 date : "2021-01-20T07:10:27Z"
-description : ""
+description : Install pycharm in raspberry pi 4 
 draft : false
 image : "/images/How-to-install-pycharm-in-raspi-4.png"
-slug : "how-to-install-pycharm-in-raspi-4"
-tags : ["Raspberry", "Raspberry pi 4", "ras pi", "pycharm", "pycharm in raspi", "install pycharm"]
-title : "How to install pycharm in raspi 4"
+slug : how-to-install-pycharm-in-raspi-4
+tags : 
+  - Raspberry
+  - Raspberry pi 4
+  - ras pi
+  - pycharm
+  - pycharm in raspi
+  - install pycharm
+title : How to install pycharm in raspi 4
 id: 8
 ---
 

@@ -1,13 +1,19 @@
 ---
-author : "Rajdeep Singh"
-date : "2022-03-18T17:11:14Z"
-description : ""
+author : Rajdeep Singh
+date : 2022-03-18T17:11:14Z
+description : install neovim IDE in Raspberry pi 4 and Ubuntu
 draft : false
 image : "/images/install--neovim.png"
-slug : "how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu"
-title : "How to install neovim IDE in Raspberry pi 4 and Ubuntu?"
-tags : ["neovim", "Linux", "linux editor"]
-categories :  ["neovim", "Linux", "linux editor"]
+slug : how-to-install-neovim-ide-in-raspberry-pi-4-and-ubuntu
+title : How to install neovim IDE in Raspberry pi 4 and Ubuntu?
+tags : 
+  - neovim
+  - Linux
+  - linux editor
+categories :  
+  - neovim
+  - Linux
+  - linux editor
 id: 7
 ---
 

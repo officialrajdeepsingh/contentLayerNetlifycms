@@ -1,5 +1,5 @@
 ---
-author: Man
+author: Rajdeep Singh
 categories:
   - git
   - ssh

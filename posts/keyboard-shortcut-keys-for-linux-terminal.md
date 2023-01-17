@@ -1,12 +1,20 @@
 ---
-author : "Rajdeep Singh"
-categories : ["Linux", "Keyboard Shortcut", "Shortcut keys", "Linux Terminal"]
-date : "2021-01-08T08:05:57Z"
-description : "Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool"
+author : Rajdeep Singh
+categories : 
+  - Linux
+  - Keyboard Shortcut
+  - Shortcut keys
+  - Linux Terminal
+date : 2021-01-08T08:05:57Z
+description : Linux Keyboard Help To Enhance Your Working Speed Inside Command Tool
 draft : false
 image : "/images/Linux-Basic-Introduction--1-.png"
-tags : ["Linux", "Keyboard Shortcut", "Shortcut keys", "Linux Terminal"]
-title : "All Keyboard Shortcuts For Linux Terminal?"
+tags : 
+  - Linux
+  - Keyboard Shortcut
+  - Shortcut keys
+  - Linux Terminal
+title : All Keyboard Shortcuts For Linux Terminal?
 id: 11
 ---
 

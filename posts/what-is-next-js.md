@@ -1,12 +1,26 @@
 ---
-author : "Rajdeep Singh"
-categories : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
-date : "2020-11-08T13:10:48Z"
+author : Rajdeep Singh
+categories : 
+  - Next.js
+  - Next.js Tutorial
+  - React.js
+  - React.js Framework
+  - javascript Framework
+  - Next
+  - Next.js Framework
+date : 2020-11-08T13:10:48Z
 description : "Basic Introduction About Next.js #SeriesStart"
 draft : false
 image : "/images/next.js.png"
-tags : ["Next.js", "Next.js Tutorial", "React.js", "React.js Framework", "javascript Framework", "Next", "Next.js Framework"]
-title : "What is Next.js?"
+tags : 
+  - Next.js
+  - Next.js Tutorial
+  - React.js
+  - React.js Framework
+  - javascript Framework
+  - Next
+  - Next.js Framework
+title : What is Next.js?
 id: 16
 ---
 
